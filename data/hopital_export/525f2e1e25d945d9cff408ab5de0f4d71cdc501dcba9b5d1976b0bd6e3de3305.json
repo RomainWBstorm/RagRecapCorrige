@@ -1,0 +1,410 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "notice_apixaban",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 10910827539809055493,
+    "filename": "notice_apixaban.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Fiche m\u00e9dicament : Apixaban",
+      "text": "Fiche m\u00e9dicament : Apixaban"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Pharmacie \u00e0 usage int\u00e9rieur",
+      "text": "Centre Hospitalier de Valmont \u2014 Pharmacie \u00e0 usage int\u00e9rieur",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Livret th\u00e9rapeutique \u2014 version du 02/01/2026",
+      "text": "Livret th\u00e9rapeutique \u2014 version du 02/01/2026",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Pharmacie \u00e0 usage int\u00e9rieur du CHV",
+      "text": "R\u00e9dig\u00e9 par : Pharmacie \u00e0 usage int\u00e9rieur du CHV",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Classe th\u00e9rapeutique",
+      "text": "Classe th\u00e9rapeutique",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Anticoagulant oral direct, inhibiteur du facteur Xa.",
+      "text": "Anticoagulant oral direct, inhibiteur du facteur Xa.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Indications",
+      "text": "Indications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/texts/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Pr\u00e9vention des accidents vasculaires c\u00e9r\u00e9braux dans la fibrillation auriculaire non valvulaire. Traitement de la maladie thromboembolique veineuse.",
+      "text": "Pr\u00e9vention des accidents vasculaires c\u00e9r\u00e9braux dans la fibrillation auriculaire non valvulaire. Traitement de la maladie thromboembolique veineuse.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Posologie usuelle",
+      "text": "Posologie usuelle",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/texts/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Fibrillation auriculaire : 5 mg matin et soir. Dose r\u00e9duite \u00e0 2,5 mg matin et soir en pr\u00e9sence d'au moins deux des crit\u00e8res suivants : \u00e2ge de 80 ans ou plus, poids de 60 kg ou moins, cr\u00e9atinine de 133 \u00b5mol/L ou plus.",
+      "text": "Fibrillation auriculaire : 5 mg matin et soir. Dose r\u00e9duite \u00e0 2,5 mg matin et soir en pr\u00e9sence d'au moins deux des crit\u00e8res suivants : \u00e2ge de 80 ans ou plus, poids de 60 kg ou moins, cr\u00e9atinine de 133 \u00b5mol/L ou plus.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Contre-indications",
+      "text": "Contre-indications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/texts/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Saignement actif cliniquement significatif. Atteinte h\u00e9patique avec troubles de la coagulation. Association \u00e0 un autre anticoagulant.",
+      "text": "Saignement actif cliniquement significatif. Atteinte h\u00e9patique avec troubles de la coagulation. Association \u00e0 un autre anticoagulant.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Pr\u00e9cautions d'emploi",
+      "text": "Pr\u00e9cautions d'emploi",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/texts/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Chirurgie programm\u00e9e : arr\u00eater l'apixaban 24 heures avant une intervention \u00e0 risque h\u00e9morragique faible, et 48 heures avant une intervention \u00e0 risque h\u00e9morragique \u00e9lev\u00e9 ou une anesth\u00e9sie rachidienne. Aucun relais par h\u00e9parine n'est n\u00e9cessaire.",
+      "text": "Chirurgie programm\u00e9e : arr\u00eater l'apixaban 24 heures avant une intervention \u00e0 risque h\u00e9morragique faible, et 48 heures avant une intervention \u00e0 risque h\u00e9morragique \u00e9lev\u00e9 ou une anesth\u00e9sie rachidienne. Aucun relais par h\u00e9parine n'est n\u00e9cessaire.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Interactions m\u00e9dicamenteuses",
+      "text": "Interactions m\u00e9dicamenteuses",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/texts/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Antiagr\u00e9gants plaquettaires et anti-inflammatoires (risque h\u00e9morragique), inhibiteurs puissants du CYP3A4.",
+      "text": "Antiagr\u00e9gants plaquettaires et anti-inflammatoires (risque h\u00e9morragique), inhibiteurs puissants du CYP3A4.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Effets ind\u00e9sirables",
+      "text": "Effets ind\u00e9sirables",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/texts/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Saignements (gingivaux, nasaux, digestifs, urinaires), an\u00e9mie, ecchymoses.",
+      "text": "Saignements (gingivaux, nasaux, digestifs, urinaires), an\u00e9mie, ecchymoses.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

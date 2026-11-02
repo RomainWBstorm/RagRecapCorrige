@@ -1,0 +1,261 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "4100055_2025-07-23_ordonnance",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 3116163377024044767,
+    "filename": "4100055_2025-07-23_ordonnance.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/texts/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Ordonnance",
+      "text": "Ordonnance"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "text": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Patient : M. Denis PETIT, n\u00e9 le 08/03/1958 (67 ans) \u2014 IPP 4100055",
+      "text": "Patient : M. Denis PETIT, n\u00e9 le 08/03/1958 (67 ans) \u2014 IPP 4100055",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Date : 23/07/2025",
+      "text": "Date : 23/07/2025",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "text": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Prescription",
+      "text": "Prescription",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Furos\u00e9mide 60 mg : 1 comprim\u00e9 le matin.",
+      "text": "Furos\u00e9mide 60 mg : 1 comprim\u00e9 le matin.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      },
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Bisoprolol 1,25 mg : le matin.",
+      "text": "Bisoprolol 1,25 mg : le matin.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      },
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Renouvelable 3 fois.",
+      "text": "Renouvelable 3 fois.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

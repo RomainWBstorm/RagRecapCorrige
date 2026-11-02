@@ -1,0 +1,237 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "4100034_2025-08-04_consultation",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 3619867022764416159,
+    "filename": "4100034_2025-08-04_consultation.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Compte rendu de consultation de suivi",
+      "text": "Compte rendu de consultation de suivi"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "text": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Patient : M. Daniel LOPEZ, n\u00e9 le 01/04/1969 (56 ans) \u2014 IPP 4100034",
+      "text": "Patient : M. Daniel LOPEZ, n\u00e9 le 01/04/1969 (56 ans) \u2014 IPP 4100034",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Date : 04/08/2025",
+      "text": "Date : 04/08/2025",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "text": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "\u00c9volution",
+      "text": "\u00c9volution",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/texts/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9adaptation cardiaque en cours. Pas de r\u00e9cidive angineuse. LDL-cholest\u00e9rol \u00e0 0,82 g/L sous atorvastatine 80 mg.",
+      "text": "R\u00e9adaptation cardiaque en cours. Pas de r\u00e9cidive angineuse. LDL-cholest\u00e9rol \u00e0 0,82 g/L sous atorvastatine 80 mg.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Conduite \u00e0 tenir",
+      "text": "Conduite \u00e0 tenir",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Poursuite du ticagrelor jusqu'\u00e0 12 mois apr\u00e8s l'infarctus, puis aspirine seule.",
+      "text": "Poursuite du ticagrelor jusqu'\u00e0 12 mois apr\u00e8s l'infarctus, puis aspirine seule.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

@@ -1,0 +1,276 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "4100014_2025-02-18_coronarographie",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 17693199241795878488,
+    "filename": "4100014_2025-02-18_coronarographie.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Compte rendu de coronarographie et d'angioplastie",
+      "text": "Compte rendu de coronarographie et d'angioplastie"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "text": "Centre Hospitalier de Valmont \u2014 Service de Cardiologie",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Patient : Mme Simone FOURNIER, n\u00e9e le 15/03/1956 (68 ans) \u2014 IPP 4100014",
+      "text": "Patient : Mme Simone FOURNIER, n\u00e9e le 15/03/1956 (68 ans) \u2014 IPP 4100014",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Date : 18/02/2025",
+      "text": "Date : 18/02/2025",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "text": "R\u00e9dig\u00e9 par : Dr Anne Leclercq, cardiologue",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Indication",
+      "text": "Indication",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/texts/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "SCA ST+ en territoire ant\u00e9rieur, douleur thoracique \u00e9voluant depuis 5 heures.",
+      "text": "SCA ST+ en territoire ant\u00e9rieur, douleur thoracique \u00e9voluant depuis 5 heures.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "D\u00e9roulement de la proc\u00e9dure",
+      "text": "D\u00e9roulement de la proc\u00e9dure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Abord art\u00e9riel radial droit apr\u00e8s anesth\u00e9sie locale. Administration de 5000 UI d'h\u00e9parine. La check-list de s\u00e9curit\u00e9 au bloc op\u00e9ratoire a \u00e9t\u00e9 r\u00e9alis\u00e9e avant l'incision. La coronarographie montre un r\u00e9seau coronaire peu calcifi\u00e9. La l\u00e9sion coupable est une occlusion thrombotique de l'IVA moyenne. Apr\u00e8s passage du guide et thrombo-aspiration, une angioplastie est r\u00e9alis\u00e9e avec mise en place d'un stent actif de 3,5 x 18 mm sur l'IVA moyenne, avec un bon r\u00e9sultat angiographique et un flux TIMI 3. Les autres art\u00e8res ne pr\u00e9sentent pas de l\u00e9sion significative. Quantit\u00e9 de produit de contraste : 103 mL. Les consignes de surveillance ont \u00e9t\u00e9 transmises \u00e0 l'\u00e9quipe du service. Compression radiale par bracelet pendant quatre heures.",
+      "text": "Abord art\u00e9riel radial droit apr\u00e8s anesth\u00e9sie locale. Administration de 5000 UI d'h\u00e9parine. La check-list de s\u00e9curit\u00e9 au bloc op\u00e9ratoire a \u00e9t\u00e9 r\u00e9alis\u00e9e avant l'incision. La coronarographie montre un r\u00e9seau coronaire peu calcifi\u00e9. La l\u00e9sion coupable est une occlusion thrombotique de l'IVA moyenne. Apr\u00e8s passage du guide et thrombo-aspiration, une angioplastie est r\u00e9alis\u00e9e avec mise en place d'un stent actif de 3,5 x 18 mm sur l'IVA moyenne, avec un bon r\u00e9sultat angiographique et un flux TIMI 3. Les autres art\u00e8res ne pr\u00e9sentent pas de l\u00e9sion significative. Quantit\u00e9 de produit de contraste : 103 mL. Les consignes de surveillance ont \u00e9t\u00e9 transmises \u00e0 l'\u00e9quipe du service. Compression radiale par bracelet pendant quatre heures.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/texts/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Angioplastie primaire avec succ\u00e8s. Double antiagr\u00e9gation plaquettaire d\u00e9but\u00e9e en salle.",
+      "text": "Angioplastie primaire avec succ\u00e8s. Double antiagr\u00e9gation plaquettaire d\u00e9but\u00e9e en salle.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

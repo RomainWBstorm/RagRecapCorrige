@@ -1,0 +1,410 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "notice_metformine",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 5373691102313291092,
+    "filename": "notice_metformine.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Fiche m\u00e9dicament : Metformine",
+      "text": "Fiche m\u00e9dicament : Metformine"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Pharmacie \u00e0 usage int\u00e9rieur",
+      "text": "Centre Hospitalier de Valmont \u2014 Pharmacie \u00e0 usage int\u00e9rieur",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Livret th\u00e9rapeutique \u2014 version du 02/01/2026",
+      "text": "Livret th\u00e9rapeutique \u2014 version du 02/01/2026",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Pharmacie \u00e0 usage int\u00e9rieur du CHV",
+      "text": "R\u00e9dig\u00e9 par : Pharmacie \u00e0 usage int\u00e9rieur du CHV",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Classe th\u00e9rapeutique",
+      "text": "Classe th\u00e9rapeutique",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Antidiab\u00e9tique oral de la famille des biguanides.",
+      "text": "Antidiab\u00e9tique oral de la famille des biguanides.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Indications",
+      "text": "Indications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/texts/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Diab\u00e8te de type 2 de l'adulte, en premi\u00e8re intention, seule ou associ\u00e9e \u00e0 d'autres antidiab\u00e9tiques ou \u00e0 l'insuline.",
+      "text": "Diab\u00e8te de type 2 de l'adulte, en premi\u00e8re intention, seule ou associ\u00e9e \u00e0 d'autres antidiab\u00e9tiques ou \u00e0 l'insuline.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Posologie usuelle",
+      "text": "Posologie usuelle",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/texts/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "D\u00e9buter \u00e0 500 mg ou 850 mg une \u00e0 deux fois par jour, au milieu ou \u00e0 la fin des repas, puis augmenter progressivement. Dose maximale : 3000 mg par jour. Si le DFG est compris entre 30 et 44 mL/min, la dose maximale est de 1000 mg par jour.",
+      "text": "D\u00e9buter \u00e0 500 mg ou 850 mg une \u00e0 deux fois par jour, au milieu ou \u00e0 la fin des repas, puis augmenter progressivement. Dose maximale : 3000 mg par jour. Si le DFG est compris entre 30 et 44 mL/min, la dose maximale est de 1000 mg par jour.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Contre-indications",
+      "text": "Contre-indications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/texts/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Insuffisance r\u00e9nale s\u00e9v\u00e8re avec un DFG inf\u00e9rieur \u00e0 30 mL/min. Acidose m\u00e9tabolique aigu\u00eb, acidoc\u00e9tose diab\u00e9tique. Insuffisance h\u00e9patique, intoxication alcoolique aigu\u00eb, d\u00e9shydratation.",
+      "text": "Insuffisance r\u00e9nale s\u00e9v\u00e8re avec un DFG inf\u00e9rieur \u00e0 30 mL/min. Acidose m\u00e9tabolique aigu\u00eb, acidoc\u00e9tose diab\u00e9tique. Insuffisance h\u00e9patique, intoxication alcoolique aigu\u00eb, d\u00e9shydratation.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Pr\u00e9cautions d'emploi",
+      "text": "Pr\u00e9cautions d'emploi",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/texts/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Examen avec injection de produit de contraste iod\u00e9 : arr\u00eater la metformine au moment de l'examen et ne la reprendre que 48 heures apr\u00e8s, si la fonction r\u00e9nale est stable. Chirurgie sous anesth\u00e9sie g\u00e9n\u00e9rale, rachianesth\u00e9sie ou p\u00e9ridurale : arr\u00eater la metformine le jour de l'intervention et la reprendre au plus t\u00f4t 48 heures apr\u00e8s, une fois l'alimentation reprise.",
+      "text": "Examen avec injection de produit de contraste iod\u00e9 : arr\u00eater la metformine au moment de l'examen et ne la reprendre que 48 heures apr\u00e8s, si la fonction r\u00e9nale est stable. Chirurgie sous anesth\u00e9sie g\u00e9n\u00e9rale, rachianesth\u00e9sie ou p\u00e9ridurale : arr\u00eater la metformine le jour de l'intervention et la reprendre au plus t\u00f4t 48 heures apr\u00e8s, une fois l'alimentation reprise.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Interactions m\u00e9dicamenteuses",
+      "text": "Interactions m\u00e9dicamenteuses",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/texts/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Produits de contraste iod\u00e9s, alcool, diur\u00e9tiques de l'anse (risque d'insuffisance r\u00e9nale fonctionnelle).",
+      "text": "Produits de contraste iod\u00e9s, alcool, diur\u00e9tiques de l'anse (risque d'insuffisance r\u00e9nale fonctionnelle).",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Effets ind\u00e9sirables",
+      "text": "Effets ind\u00e9sirables",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/texts/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Tr\u00e8s fr\u00e9quents : troubles digestifs (naus\u00e9es, diarrh\u00e9e, douleurs abdominales), surtout en d\u00e9but de traitement. Fr\u00e9quent : go\u00fbt m\u00e9tallique. Tr\u00e8s rare mais grave : acidose lactique. Au long cours : diminution de l'absorption de la vitamine B12.",
+      "text": "Tr\u00e8s fr\u00e9quents : troubles digestifs (naus\u00e9es, diarrh\u00e9e, douleurs abdominales), surtout en d\u00e9but de traitement. Fr\u00e9quent : go\u00fbt m\u00e9tallique. Tr\u00e8s rare mais grave : acidose lactique. Au long cours : diminution de l'absorption de la vitamine B12.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

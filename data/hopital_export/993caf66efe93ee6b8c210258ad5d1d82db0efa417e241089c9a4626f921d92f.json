@@ -1,0 +1,237 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "4100049_2025-04-18_cro",
+  "origin": {
+    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "binary_hash": 11284408949532645679,
+    "filename": "4100049_2025-04-18_cro.docx"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Compte rendu op\u00e9ratoire",
+      "text": "Compte rendu op\u00e9ratoire"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Centre Hospitalier de Valmont \u2014 Service de Chirurgie orthop\u00e9dique",
+      "text": "Centre Hospitalier de Valmont \u2014 Service de Chirurgie orthop\u00e9dique",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Patient : M. Yves HENRY, n\u00e9 le 01/10/1958 (66 ans) \u2014 IPP 4100049",
+      "text": "Patient : M. Yves HENRY, n\u00e9 le 01/10/1958 (66 ans) \u2014 IPP 4100049",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Date : 18/04/2025",
+      "text": "Date : 18/04/2025",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "R\u00e9dig\u00e9 par : Dr Isabelle Roux, chirurgienne orthop\u00e9diste",
+      "text": "R\u00e9dig\u00e9 par : Dr Isabelle Roux, chirurgienne orthop\u00e9diste",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "text": "Document fictif g\u00e9n\u00e9r\u00e9 pour un cours. Patients, m\u00e9decins et donn\u00e9es sont invent\u00e9s. Posologies non v\u00e9rifi\u00e9es : ne jamais utiliser comme r\u00e9f\u00e9rence m\u00e9dicale.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Intervention",
+      "text": "Intervention",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/texts/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Arthroplastie totale de hanche droite sous rachianesth\u00e9sie.",
+      "text": "Arthroplastie totale de hanche droite sous rachianesth\u00e9sie.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "D\u00e9roulement",
+      "text": "D\u00e9roulement",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/texts/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Le champ op\u00e9ratoire a \u00e9t\u00e9 pr\u00e9par\u00e9 \u00e0 la povidone iod\u00e9e. L'antibioprophylaxie par c\u00e9fazoline 2 g a \u00e9t\u00e9 administr\u00e9e \u00e0 l'induction anesth\u00e9sique. La check-list de s\u00e9curit\u00e9 au bloc op\u00e9ratoire a \u00e9t\u00e9 r\u00e9alis\u00e9e avant l'incision. Installation en d\u00e9cubitus dorsal. Voie d'abord ant\u00e9rieure de la hanche droite. Arthrotomie et luxation de la t\u00eate f\u00e9morale, qui pr\u00e9sente une usure cartilagineuse compl\u00e8te. Ost\u00e9otomie du col f\u00e9moral. Pr\u00e9paration du cotyle par fraises successives et mise en place d'une cupule non ciment\u00e9e de 50 mm. Pr\u00e9paration du f\u00fbt f\u00e9moral et mise en place d'une tige f\u00e9morale non ciment\u00e9e taille 4, avec une t\u00eate en c\u00e9ramique de 32 mm. R\u00e9duction et contr\u00f4le de la stabilit\u00e9 et de la longueur du membre. Les pertes sanguines sont estim\u00e9es \u00e0 700 mL, ayant n\u00e9cessit\u00e9 la transfusion d'un culot globulaire en fin d'intervention. Fermeture plan par plan. Les consignes de surveillance ont \u00e9t\u00e9 transmises \u00e0 l'\u00e9quipe du service. Le r\u00e9veil s'est d\u00e9roul\u00e9 sans particularit\u00e9 en salle de surveillance post-interventionnelle.",
+      "text": "Le champ op\u00e9ratoire a \u00e9t\u00e9 pr\u00e9par\u00e9 \u00e0 la povidone iod\u00e9e. L'antibioprophylaxie par c\u00e9fazoline 2 g a \u00e9t\u00e9 administr\u00e9e \u00e0 l'induction anesth\u00e9sique. La check-list de s\u00e9curit\u00e9 au bloc op\u00e9ratoire a \u00e9t\u00e9 r\u00e9alis\u00e9e avant l'incision. Installation en d\u00e9cubitus dorsal. Voie d'abord ant\u00e9rieure de la hanche droite. Arthrotomie et luxation de la t\u00eate f\u00e9morale, qui pr\u00e9sente une usure cartilagineuse compl\u00e8te. Ost\u00e9otomie du col f\u00e9moral. Pr\u00e9paration du cotyle par fraises successives et mise en place d'une cupule non ciment\u00e9e de 50 mm. Pr\u00e9paration du f\u00fbt f\u00e9moral et mise en place d'une tige f\u00e9morale non ciment\u00e9e taille 4, avec une t\u00eate en c\u00e9ramique de 32 mm. R\u00e9duction et contr\u00f4le de la stabilit\u00e9 et de la longueur du membre. Les pertes sanguines sont estim\u00e9es \u00e0 700 mL, ayant n\u00e9cessit\u00e9 la transfusion d'un culot globulaire en fin d'intervention. Fermeture plan par plan. Les consignes de surveillance ont \u00e9t\u00e9 transmises \u00e0 l'\u00e9quipe du service. Le r\u00e9veil s'est d\u00e9roul\u00e9 sans particularit\u00e9 en salle de surveillance post-interventionnelle.",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

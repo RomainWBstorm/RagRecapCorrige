@@ -1,0 +1,37 @@
+name = 'harrier_patient_line_512'
+
+[chunking]
+type = 'hybrid'
+max_tokens = 512
+overlap = 0
+patient_line = true
+
+[embedder]
+model = 'harrier-oss-v1-0.6b'
+vector_size = 1024
+embedding_batch_size = 2048
+query_instruction = 'Given a question about patient records or drug information of a hospital, retrieve the passages that answer the question'
+
+[index]
+sparse_vector = 'bm25'
+sparse_embedder_ascii_folding = true
+
+[search]
+method = 'hybrid'
+candidates = 30
+
+[reranker]
+model = 'bge-reranker-v2-m3'
+top_k = 5
+
+[generation]
+model = 'qwen3.8-27b'
+system_prompt = 'prompts/detailed.txt'
+temperature = 0.0
+top_p = 1.0
+top_k = 40
+max_tokens = 4096
+reasoning = false
+
+[judge]
+model = 'gemma-4-26b'
