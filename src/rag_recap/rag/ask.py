@@ -42,7 +42,8 @@ async def get_response(query, chunks, llm_client):
     return response.choices[0].message.content, response.model_extra['timings']
 
 async def generate_response(query, qdrant_client, embedder, llm_client):
-    filtered_chunks = await asyncio.to_thread(search_and_filter_chunks, query, qdrant_client, embedder)
+    # Qdrant Client is not thread safe so better remove it (KeyError: 'qdrant/bm25')
+    filtered_chunks = search_and_filter_chunks(query, qdrant_client, embedder)
     reranked_chunks = await asyncio.to_thread(rerank_chunks, query, filtered_chunks)
     response, llm_metrics = await get_response(query, reranked_chunks, llm_client)
 
