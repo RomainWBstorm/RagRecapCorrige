@@ -65,7 +65,7 @@ Une interface web est disponible sur `http://<ip>:8000/ui`.
 
 ```powershell
 uv run python -m rag_recap.evaluation.runner            # génère les réponses : charge le générateur
-uv run python -m rag_recap.evaluation.runner judge 3 4  # juge les expériences 3 et 4 : charge le juge
+uv run python -m rag_recap.evaluation.runner --judge 3 4  # juge les expériences 3 et 4 : charge le juge
 ```
 
 Chaque bascule recharge un modèle, ce qui prend quelques dizaines de secondes. Générez d'abord toutes les expériences, puis jugez-les toutes d'un coup.

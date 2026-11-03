@@ -12,7 +12,7 @@ from time import perf_counter
 
 import asyncio
 import json
-import sys
+import argparse
 
 
 def load_questions(path):
@@ -85,10 +85,14 @@ def judge_experiment(experiment_id):
             insert_scores(experiment_id, question['id'], question['type'], judge_scores(question, answer, chunks, judge_metrics))
             print(question['id'], question['type'], 'judged')
 
-
 if __name__ == '__main__':
-    if len(sys.argv) > 1 and sys.argv[1] == 'judge':
-        for experiment_id in sys.argv[2:]:
-            judge_experiment(int(experiment_id))
+    parser = argparse.ArgumentParser(description = 'Run an experiment or judge experiments that were already run.')
+    parser.add_argument('--judge', type = int, nargs = '+', metavar = 'EXPERIMENT_ID',
+                        help = 'judge these experiments with the [judge] model instead of running a new experiment')
+    args = parser.parse_args()
+
+    if args.judge:
+        for experiment_id in args.judge:
+            judge_experiment(experiment_id)
     else:
         run_experiment()

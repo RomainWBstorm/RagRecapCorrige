@@ -6,7 +6,6 @@ import tomllib
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file='.env', extra='ignore')
 
-
     postgres_url: str
 
     qdrant_api_key: str | None
